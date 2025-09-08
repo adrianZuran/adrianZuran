@@ -38,18 +38,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianZuran&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianZuran&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 - 📧 Email: [adriansenzin@gmail.com](mailto:your-email@example.com)
