@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Adrian Trinata</h1>
-<h3 align="center">A passionate full-stack web developer from Indonesia</h3>
+<h3 align="center">fresh graduate</h3>
 
 ---
 
